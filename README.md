@@ -1,0 +1,4 @@
+reduce
+======
+
+Reducing Majorise Series
